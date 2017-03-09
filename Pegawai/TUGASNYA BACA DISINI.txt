@@ -1,0 +1,5 @@
+Setelah mengganti Form buku tamu menjadi responsive (daftar pegawai).
+Tugasnya :
+1. Memnampilkan daftar buku dengan cara membuat class table
+2. Isi "//create content" dengan loop dan table
+3. Kirim ke simonbarus19@gmail.com
