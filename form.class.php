@@ -1,6 +1,6 @@
 <?php
 class Form {
-	private $titles;
+	private $title;
 	private $action = "";
 	private $submit = "Submit";
 	private $count_attr = 0;
@@ -28,7 +28,7 @@ class Form {
 			echo "<td width=50%><input type='text' name='".$this->attributs[$x]['name']."'></td></tr>";
 		}
 	echo "<tr> <td colspan='3' align='center'>";
-	echo "<input type='submit' name='submit' value='".$this->submit."'></td>/tr>";
+	echo "<input type='submit' name='submit' value='".$this->submit."'></td></tr>";
 	echo "</table>";
 	}
 }
