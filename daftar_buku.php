@@ -1,5 +1,5 @@
 <?php
-  $filename = "buku_tamu.txt";
+  $filename = "buku_tamu_SebelumOOP.txt";
   $file = fopen($filename,"r");
   echo "<h2>Daftar Buku Tamu</h2>";
   $handle = fopen($filename, "r");
