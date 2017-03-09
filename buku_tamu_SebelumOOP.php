@@ -1,6 +1,6 @@
 <?php
 
-include_once("file.class.php");
+include_once("file.class.sebelumoop.php");
 
 if(isset($_POST["submit"])) {//cek apakah form sudah disubmit
   //data dari form buku tamu
